@@ -1,0 +1,36 @@
+pelaajien määrä
+pelaajien nimet ja pisteet
+kenen vuoro on
+
+Kortit:
+pelaajien kädet
+pöytä
+pelaajien ottamat
+kaikki muu pakassa
+
+Tehdään ladatessa uusi pakka ja poistetaan siitä kaikki mitä luetaan tiedostosta
+
+
+pelaajien määrä
+vuoro
+
+nimi
+mökki
+käsi
+otetut
+
+pöytä
+
+esim
+
+2
+0
+matti
+1
+c1 c2 c3 c4
+d1 d2
+pekka
+0
+s1 s2 s3 s4
+0
+h1 h4 h7 h9 h10 h11
